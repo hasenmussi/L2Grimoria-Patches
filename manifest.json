@@ -1,0 +1,1309 @@
+﻿{
+    "product":  "L2JDev Client",
+    "latest_version":  "20260602000830",
+    "generated_at":  "2026-06-02 00:08:30",
+    "base_url":  "https://raw.githubusercontent.com/hasenmussi/L2Grimoria-Patches/main",
+    "full_package":  null,
+    "patches":  [
+                    {
+                        "patch_type":  "incremental",
+                        "from_version":  "0",
+                        "to_version":  "20260602000830",
+                        "file":  "patches/patch_20260602000830.zip",
+                        "size_bytes":  255805060,
+                        "hash":  "0BC1DF38B66CC7D1D5386334F000B4EC112B69550428260C39DDF24BC5ABA20E",
+                        "file_count":  161,
+                        "created_at":  "2026-06-02 00:08:30"
+                    }
+                ],
+    "files":  [
+                  {
+                      "path":  "animations\\LineageNPCs_L2OutOfControl01s.ukx",
+                      "size":  2574785,
+                      "hash":  "2C3F37AEC105C6E9819025F5EEC2FE327B8A47CDE3BC5A68B5157E5F1D5E0E92",
+                      "package":  "files/animations/LineageNPCs_L2OutOfControl01s.ukx.zip",
+                      "package_size":  1069522,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "L2Grimoria.txt",
+                      "size":  0,
+                      "hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+                      "package":  "files/L2Grimoria.txt.zip",
+                      "package_size":  126,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "maps\\22_22.unr",
+                      "size":  14990132,
+                      "hash":  "2599B853B9BD47F55B3EB601236DE6477C0F16F5D4B58FD2AEAE557C6F5D8CB5",
+                      "package":  "files/maps/22_22.unr.zip",
+                      "package_size":  3263160,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "staticmeshes\\Giran_Pirat_22_22.usx",
+                      "size":  380150005,
+                      "hash":  "5BF36D809E3999A34B6E801FB9F08E663EC7ED1333C6BF7E9B94E4039900C0CE",
+                      "package":  "files/staticmeshes/Giran_Pirat_22_22.usx.zip",
+                      "package_size":  180060583,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\actionname-e.dat",
+                      "size":  6704,
+                      "hash":  "926B33A3DF6BCA5E6BA43EBAE21707281DC057E5CEA0138D5862B5041D3E7C7B",
+                      "package":  "files/system/actionname-e.dat.zip",
+                      "package_size":  6853,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\ALAudio.dll",
+                      "size":  352276,
+                      "hash":  "7E0C506BD1200C6EB681096A2DB22DC134E78C2D64B06A4E69DA0DC0E0DB3881",
+                      "package":  "files/system/ALAudio.dll.zip",
+                      "package_size":  124048,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\ALAudio.int",
+                      "size":  2658,
+                      "hash":  "25F4E583409D798CD10CDCA79EB8620395CA383A50CDECEDD2AB3D501EBA803C",
+                      "package":  "files/system/ALAudio.int.zip",
+                      "package_size":  967,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\armorgrp.dat",
+                      "size":  98864,
+                      "hash":  "478C39DB4EA8F27B35E671FA1EFD36492D263DE93BB5C093E78D9003B0FB79AA",
+                      "package":  "files/system/armorgrp.dat.zip",
+                      "package_size":  99035,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\asiahm-medium.ttf",
+                      "size":  601048,
+                      "hash":  "C698593DAE0CF4D5202871E92953861D3B7AB2DCEA524F32B4222123E3BC9B59",
+                      "package":  "files/system/asiahm-medium.ttf.zip",
+                      "package_size":  258040,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\bighead.int",
+                      "size":  350,
+                      "hash":  "A7D939FF5CF2808FF30D33EFD8C6E9A6C32E916043EFB23A56C8F426AB7F1032",
+                      "package":  "files/system/bighead.int.zip",
+                      "package_size":  276,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\castlename-e.dat",
+                      "size":  1072,
+                      "hash":  "4D26B3064836BECAE6B5F7173F210E777F53765069DAA6CF1F66A9B412DA37DE",
+                      "package":  "files/system/castlename-e.dat.zip",
+                      "package_size":  1221,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\chargrp.dat",
+                      "size":  2480,
+                      "hash":  "2BB52DE25EF3558F51E458C0095EFCD9C509DFD5B5695A269F268B5F235FBC0F",
+                      "package":  "files/system/chargrp.dat.zip",
+                      "package_size":  2619,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\chatfilter.ini",
+                      "size":  204,
+                      "hash":  "7544BC6079BF9A2861974BE5CD1797B61FB0D759E8DAA987C6385A164623242F",
+                      "package":  "files/system/chatfilter.ini.zip",
+                      "package_size":  256,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\classinfo-e.dat",
+                      "size":  2224,
+                      "hash":  "537681972450E4F3264EFCC00748A3776F2420FA7E1531556934EBE41E560507",
+                      "package":  "files/system/classinfo-e.dat.zip",
+                      "package_size":  2371,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\clientdata.dat",
+                      "size":  432,
+                      "hash":  "E62DEC398F7A5565A3257EFBFFD920636D4E46D135FB93E4AE05F41E24C91033",
+                      "package":  "files/system/clientdata.dat.zip",
+                      "package_size":  577,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\cloak.int",
+                      "size":  454,
+                      "hash":  "4165D0593D8DC627E5BF90F10CE700958916FD7157D890ABE212A11A39D35F70",
+                      "package":  "files/system/cloak.int.zip",
+                      "package_size":  333,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\commandname-e.dat",
+                      "size":  1328,
+                      "hash":  "65B37C242F55CBC437CD51551A1FE6C1F241A0E9CC882D19DDBBC066539F9E02",
+                      "package":  "files/system/commandname-e.dat.zip",
+                      "package_size":  1479,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\commandname-r.dat",
+                      "size":  1328,
+                      "hash":  "65B37C242F55CBC437CD51551A1FE6C1F241A0E9CC882D19DDBBC066539F9E02",
+                      "package":  "files/system/commandname-r.dat.zip",
+                      "package_size":  1479,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Core.dll",
+                      "size":  1372180,
+                      "hash":  "D83449B1CDF0AC717A98BE9289CAAB03CB507324A696EF449E31369E28416639",
+                      "package":  "files/system/Core.dll.zip",
+                      "package_size":  439669,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\core.int",
+                      "size":  3423,
+                      "hash":  "432A472B6E0CF9A31008A0468670F1E30871F3965F71465A2796951B72A40D27",
+                      "package":  "files/system/core.int.zip",
+                      "package_size":  1677,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Core.u",
+                      "size":  65662,
+                      "hash":  "DE5F0EE0A773327BCE13C96622FD3C654CFF7DB88B9BE065D1232590C140FDA0",
+                      "package":  "files/system/Core.u.zip",
+                      "package_size":  21288,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\creditfont.gly",
+                      "size":  181800,
+                      "hash":  "3CD03BF241EF34B8698CB03CB89D48BD0110BA797D94510987469FAD8FF68A85",
+                      "package":  "files/system/creditfont.gly.zip",
+                      "package_size":  8191,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\creditgrp-e.dat",
+                      "size":  816,
+                      "hash":  "521F3400A1E5C4700A7FE64279FB3F173889867EDA8265399D616CEC68E37ECF",
+                      "package":  "files/system/creditgrp-e.dat.zip",
+                      "package_size":  963,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\D3DDrv.dll",
+                      "size":  1277972,
+                      "hash":  "2B496D235CCA529B6180588A987CA0059600A2323193D96E87B90014105BE0C2",
+                      "package":  "files/system/D3DDrv.dll.zip",
+                      "package_size":  561744,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\defopenal32.dll",
+                      "size":  102420,
+                      "hash":  "96EC36C0631C73072423AD6EB35F07588B37CEB770CC145073A844A7086C20CA",
+                      "package":  "files/system/defopenal32.dll.zip",
+                      "package_size":  43484,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\dsetup.dll",
+                      "size":  62996,
+                      "hash":  "D48DFA0F6177FE307C97F36C0AF6D2D9027B42C263DDD31B6D463141B0E7D824",
+                      "package":  "files/system/dsetup.dll.zip",
+                      "package_size":  31177,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Editor.u",
+                      "size":  593932,
+                      "hash":  "DA5C6FE8B2D3639286C0407695465DDFCE72C2D5BBACB7C2EE0885451F0DC70F",
+                      "package":  "files/system/Editor.u.zip",
+                      "package_size":  164736,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\encvag.dll",
+                      "size":  150548,
+                      "hash":  "C888278386AD6F171AF5DB05AB9D892E103FEDF5FEFA2C859634BAE3206620E8",
+                      "package":  "files/system/encvag.dll.zip",
+                      "package_size":  69738,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\engine.dll",
+                      "size":  30704468,
+                      "hash":  "508974C711F207402719E92737E211A2F029C95C2F68FC0E1C31FCBB9DBB232D",
+                      "package":  "files/system/engine.dll.zip",
+                      "package_size":  3551219,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Engine.int",
+                      "size":  6700,
+                      "hash":  "4F178ABEE824EBB092AAB5012AD4096469D6AAA26E426041BB1954360C7AAA3F",
+                      "package":  "files/system/Engine.int.zip",
+                      "package_size":  2692,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Engine.u",
+                      "size":  2805259,
+                      "hash":  "9B04FF5CB4258E84DFA8EFBDD85D9121F3BDCB5822A9A21CA69D200D05A69761",
+                      "package":  "files/system/Engine.u.zip",
+                      "package_size":  770294,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\entereventgrp.dat",
+                      "size":  4016,
+                      "hash":  "748A0B56F4C92854DDD639945C40D1956601BBC78A034A79C15FFA415F6608F5",
+                      "package":  "files/system/entereventgrp.dat.zip",
+                      "package_size":  4167,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Env.int",
+                      "size":  5943,
+                      "hash":  "972439EF9087DAAADCBB3179A988C61A5FA16848C6CD257414690C72873EB587",
+                      "package":  "files/system/Env.int.zip",
+                      "package_size":  1831,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\etcitemgrp.dat",
+                      "size":  80176,
+                      "hash":  "524BB5B57461F799EC4BD5CFD8988E66F3C8BA0D9B13FEF2D3FCF8A51416171D",
+                      "package":  "files/system/etcitemgrp.dat.zip",
+                      "package_size":  80341,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\eula-e.dat",
+                      "size":  10800,
+                      "hash":  "A8BAB78B2773BCCC4A6658A1505FB8037E2BF1E5FA229FD851F3BACB44C2532C",
+                      "package":  "files/system/eula-e.dat.zip",
+                      "package_size":  10937,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Fire.dll",
+                      "size":  315412,
+                      "hash":  "FBDAB449469D1B469B87DB48C6E321C419D24263A401BFD9D0B02172CDFE6C5B",
+                      "package":  "files/system/Fire.dll.zip",
+                      "package_size":  109609,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Fire.u",
+                      "size":  15491,
+                      "hash":  "6933AFDDB8830AAFA754A59B97782FE66DDA102C58395B3776E4672AEEF76527",
+                      "package":  "files/system/Fire.u.zip",
+                      "package_size":  4625,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\GameGuard.des",
+                      "size":  153375,
+                      "hash":  "1EAD3F96BF1BE83FC648EB26DC99FD5B3F15C6A112E1178CC495995622E0BF31",
+                      "package":  "files/system/GameGuard.des.zip",
+                      "package_size":  150043,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\GamePlay.u",
+                      "size":  212008,
+                      "hash":  "714639CDAD265A7CAEAF0F91CE76BB50492390EAA3FAEA15ED5A28A3E830B64A",
+                      "package":  "files/system/GamePlay.u.zip",
+                      "package_size":  64174,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\gametip-e.dat",
+                      "size":  12592,
+                      "hash":  "63C959D1147828BE76D46695A46AF1AD0623F9DBDA67612C6686E3DBA091F2AD",
+                      "package":  "files/system/gametip-e.dat.zip",
+                      "package_size":  12735,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\hair.int",
+                      "size":  110933,
+                      "hash":  "C5E404054BBC2E0BD88848E33A706E7EC2DEB61E27F29034D579A0982B1CBE73",
+                      "package":  "files/system/hair.int.zip",
+                      "package_size":  2318,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\hairaccessarygrp.dat",
+                      "size":  560,
+                      "hash":  "5F62B708987108975D09FCEB4BB217F195EC9E3689F0AC84348099E207AAF717",
+                      "package":  "files/system/hairaccessarygrp.dat.zip",
+                      "package_size":  717,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\hairaccessorylocgrp.dat",
+                      "size":  4144,
+                      "hash":  "A618AB42A541DBD09D23EF67D4BF298E44130786D142FF8C6AA9EF22C5C6A258",
+                      "package":  "files/system/hairaccessorylocgrp.dat.zip",
+                      "package_size":  4307,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\hairgrp.dat",
+                      "size":  304,
+                      "hash":  "03DF44930CD3752E0F67C99AD2F402028A4406D53A5E30978ADC92B589C8FA59",
+                      "package":  "files/system/hairgrp.dat.zip",
+                      "package_size":  439,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\helmetgrp.dat",
+                      "size":  432,
+                      "hash":  "E6A7CAA4A4E51C1B294394A4DCBE753B77EF57E9A45DBE795262D6CC9C19A624",
+                      "package":  "files/system/helmetgrp.dat.zip",
+                      "package_size":  575,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\hennagrp-e.dat",
+                      "size":  1968,
+                      "hash":  "837E1665358E510DBD8E36B5D71737717F894B9E71A8D06DB8B68BA29A54A03C",
+                      "package":  "files/system/hennagrp-e.dat.zip",
+                      "package_size":  2113,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\huntingzone-e.dat",
+                      "size":  5680,
+                      "hash":  "3428F7E76A0F45078D5F2D493B5E17D9A64DF4248D8AD403377CD5FED1376118",
+                      "package":  "files/system/huntingzone-e.dat.zip",
+                      "package_size":  5831,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\ifc23.dll",
+                      "size":  233492,
+                      "hash":  "2A4751B579AB8B68585D61DCEF08FA6E9F5B853CE429B026E18A83AE1960FB1C",
+                      "package":  "files/system/ifc23.dll.zip",
+                      "package_size":  93525,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\interface.u",
+                      "size":  1964561,
+                      "hash":  "4CA40E2936138D9551412767C695B6E54E8F2843DAF437536811705704B91019",
+                      "package":  "files/system/interface.u.zip",
+                      "package_size":  456304,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\interface.xdat",
+                      "size":  532845,
+                      "hash":  "0E0CF0050A4A45FC2EB0538D593593F5D7A5BD08DF9E3D0BF8894FAEF168148E",
+                      "package":  "files/system/interface.xdat.zip",
+                      "package_size":  56437,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\IpDrv.dll",
+                      "size":  491540,
+                      "hash":  "32D65382123B5C33F21DE3B7A85FF5B2777394224EDA6AACBCC7A7D3581682EF",
+                      "package":  "files/system/IpDrv.dll.zip",
+                      "package_size":  155987,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\ipdrv.int",
+                      "size":  1840,
+                      "hash":  "3100CD32AF272BA43A0046E235DA5970BBF502EFF7C0FAB1DAE10F501875CD66",
+                      "package":  "files/system/ipdrv.int.zip",
+                      "package_size":  752,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\IpDrv.u",
+                      "size":  73703,
+                      "hash":  "0A156F4800C5C4C9B3B12E9944A779D9C4FCD517AA25D64964FA523836191F9B",
+                      "package":  "files/system/IpDrv.u.zip",
+                      "package_size":  23414,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\itemname-e.dat",
+                      "size":  237744,
+                      "hash":  "2150B71573094AE7FE25ED5B60E05292E2BAC7D6EF2C9E311B000FA17600A998",
+                      "package":  "files/system/itemname-e.dat.zip",
+                      "package_size":  237959,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\l2.exe",
+                      "size":  491540,
+                      "hash":  "790D9068796714389D82A400D14D26DCB9E6ECDFC6C2B5EBA92EBD1A441B10EE",
+                      "package":  "files/system/l2.exe.zip",
+                      "package_size":  182368,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\l2.ini",
+                      "size":  3376,
+                      "hash":  "54AC64088F036E869E9AAD499404651F7F365176325913D7EB0569A3F4E2B538",
+                      "package":  "files/system/l2.ini.zip",
+                      "package_size":  3505,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\l2.int",
+                      "size":  163,
+                      "hash":  "9E0B0D9095105790C51F1C9337A812CBC3A13983F2D3C8C73D3AD9A0666DB010",
+                      "package":  "files/system/l2.int.zip",
+                      "package_size":  232,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\L2CompiledShader.bin",
+                      "size":  4,
+                      "hash":  "DF3F619804A92FDB4057192DC43DD748EA778ADC52BC498CE80524C014B81119",
+                      "package":  "files/system/L2CompiledShader.bin.zip",
+                      "package_size":  158,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\l2forecf.ffe",
+                      "size":  3516,
+                      "hash":  "85D0DAA44733BFC97BCA3E1B4124C7287B213FD04FC8C321BADC9B67E0CAC4AF",
+                      "package":  "files/system/l2forecf.ffe.zip",
+                      "package_size":  858,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\largefont.gly",
+                      "size":  185632,
+                      "hash":  "F6EA168898793C9923B4AF54883AC564D09AFC5520E6AFDC3BB37BCE71DFB819",
+                      "package":  "files/system/largefont.gly.zip",
+                      "package_size":  9464,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\largefont-e.gly",
+                      "size":  1560,
+                      "hash":  "82D0F5EB9B7290C8F335473D5A5F03FC6E2D14440E7D8C5E322500F164C8C048",
+                      "package":  "files/system/largefont-e.gly.zip",
+                      "package_size":  492,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\largefont-r.gly",
+                      "size":  5656,
+                      "hash":  "C6FCDA82F4435677FD492DA60F886813602D3B38463912F37FA2142191B151BE",
+                      "package":  "files/system/largefont-r.gly.zip",
+                      "package_size":  1071,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Lineage2us.ini",
+                      "size":  371,
+                      "hash":  "4306807BD24C36BDECDCFD5F75BC5F0529032483080302DAC214CBE6F9F3D42C",
+                      "package":  "files/system/Lineage2us.ini.zip",
+                      "package_size":  516,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineagecreature.dll",
+                      "size":  131092,
+                      "hash":  "C0F4BCE6177D926D723654B12D7B8E38E5792E571391DDEF18356F7CCBABCD78",
+                      "package":  "files/system/lineagecreature.dll.zip",
+                      "package_size":  53898,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineagecreature.u",
+                      "size":  12054,
+                      "hash":  "6B13FE4E9D92E212AAAC6D80BBB56370BDB43EA2BE7DF7AA7CAFB74CFC085907",
+                      "package":  "files/system/lineagecreature.u.zip",
+                      "package_size":  4349,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageDeco.u",
+                      "size":  6752,
+                      "hash":  "77A3F23688DF5BD8919952C5B15A59E7CC6C5507357CCAF4E443150F882BC387",
+                      "package":  "files/system/LineageDeco.u.zip",
+                      "package_size":  2358,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineageeffect.u",
+                      "size":  2006536,
+                      "hash":  "EA090154C4B8EB2F4FAFAB331C85FD8F7E42869EC71EB4F11323B546B550114A",
+                      "package":  "files/system/lineageeffect.u.zip",
+                      "package_size":  303151,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineageenv.dll",
+                      "size":  131092,
+                      "hash":  "AA84B5BE0234C6DA1809B26C4550B3FF4B9D35B4675C91E33FE6ADC358D7D019",
+                      "package":  "files/system/lineageenv.dll.zip",
+                      "package_size":  53636,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineageenv.u",
+                      "size":  12049,
+                      "hash":  "0813E3A46AA3EB19C733B4212C7523A15CB4D2507B9F923BB95661A12647297C",
+                      "package":  "files/system/lineageenv.u.zip",
+                      "package_size":  4344,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageMonster.int",
+                      "size":  527907,
+                      "hash":  "2F026530E5B7F3D6BA43BBC208252CC665C965CEC4D16A1A84D11E48192EB432",
+                      "package":  "files/system/LineageMonster.int.zip",
+                      "package_size":  11887,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineagemonster.u",
+                      "size":  176945,
+                      "hash":  "F06AC53F7DF24BD13D6E7A0D25D9E3CA4E4502AF2437518E49D96A053987D7B6",
+                      "package":  "files/system/lineagemonster.u.zip",
+                      "package_size":  39505,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineagemonster2.int",
+                      "size":  151403,
+                      "hash":  "E012C859D1EF01AAB1AADBE7C35AF06B09F5C51D14CD58B50E9D01E6EA8C6377",
+                      "package":  "files/system/lineagemonster2.int.zip",
+                      "package_size":  3395,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageMonster2.u",
+                      "size":  68190,
+                      "hash":  "C623818BFE1B6EF201785AFD4BDAC3FFC20E443B4C122A78CEA79C473FE99420",
+                      "package":  "files/system/LineageMonster2.u.zip",
+                      "package_size":  14343,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageMonster3.int",
+                      "size":  55710,
+                      "hash":  "04C4AA4E0A6620CFB66D9D8C2A75A1B2CDC73012488E0C3DE25F126D2A9C0C0E",
+                      "package":  "files/system/LineageMonster3.int.zip",
+                      "package_size":  2847,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageMonster3.u",
+                      "size":  79016,
+                      "hash":  "F3B211E69A4CB94AA8962D5FDD3969DAD895AA214E5CF60577EC7D3F69FC5709",
+                      "package":  "files/system/LineageMonster3.u.zip",
+                      "package_size":  17061,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageNpc.int",
+                      "size":  103714,
+                      "hash":  "4B00C3462FA724ECD6D3EB7A6FA5EA5AAAE651DA4AAB5B029B985BB12A2093B9",
+                      "package":  "files/system/LineageNpc.int.zip",
+                      "package_size":  4420,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageNpc.u",
+                      "size":  91687,
+                      "hash":  "22208E416E5B986042FB5D67BCA3A519329D81B289843B5EA442D73B2495F7D0",
+                      "package":  "files/system/LineageNpc.u.zip",
+                      "package_size":  21524,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineagenpc2.int",
+                      "size":  4344,
+                      "hash":  "079FEA46921B9521BAF398116F2FA91B62C0F9503F542C39F6E4DFEECB01BD63",
+                      "package":  "files/system/lineagenpc2.int.zip",
+                      "package_size":  665,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageNpc2.u",
+                      "size":  14464,
+                      "hash":  "3A68B645D1912B7A882BCA3BFD41F12BE45286DD118798EA63244173FCB7B3FC",
+                      "package":  "files/system/LineageNpc2.u.zip",
+                      "package_size":  4241,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageNpcEv.u",
+                      "size":  12192,
+                      "hash":  "9FDF8E870E7477D6B67B1A05A401F04A76DEEEABBA7DCA8D9A48BC01062E09FB",
+                      "package":  "files/system/LineageNpcEv.u.zip",
+                      "package_size":  3706,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageVehicle.u",
+                      "size":  9084,
+                      "hash":  "79282682D4E49DF5287ECFA2D6AC89DF4ABB01FF6495B46F1ED16C9EAA624066",
+                      "package":  "files/system/LineageVehicle.u.zip",
+                      "package_size":  3371,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\lineagewarrior.int",
+                      "size":  193542,
+                      "hash":  "8D951CBCCD010A849F05DF827D7065EC5F9372245953E71F3E88344CF8189485",
+                      "package":  "files/system/lineagewarrior.int.zip",
+                      "package_size":  18996,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\LineageWarrior.u",
+                      "size":  31540,
+                      "hash":  "747B1E7C3045C748C08B03B54893DC2D29CF7103379F19804CCBEB7764224558",
+                      "package":  "files/system/LineageWarrior.u.zip",
+                      "package_size":  8867,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Localization.ini",
+                      "size":  3653,
+                      "hash":  "315C5BF954B7D319B58A2765744D79133F19EF7FA15F5A5023EAE1984D995A52",
+                      "package":  "files/system/Localization.ini.zip",
+                      "package_size":  1076,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\logongrp.dat",
+                      "size":  432,
+                      "hash":  "AB16F82257CA2033A596F36CF4FD605A39AE51037F9E9C89DB12770F968BA6A7",
+                      "package":  "files/system/logongrp.dat.zip",
+                      "package_size":  573,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\mobskillanimgrp.dat",
+                      "size":  67504,
+                      "hash":  "8B1AA68F2697EDC41FFC479E697483D38A5E49FFC786FCF585EB6FDB605C1C25",
+                      "package":  "files/system/mobskillanimgrp.dat.zip",
+                      "package_size":  67679,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\msxml4.dll",
+                      "size":  1233940,
+                      "hash":  "26BD2A7DAD04A548C22D16C6769EF1BB00D2517F6FA721D05FB06D96BEFAB215",
+                      "package":  "files/system/msxml4.dll.zip",
+                      "package_size":  623372,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\msxml4a.dll",
+                      "size":  44564,
+                      "hash":  "51E38D41A2BC89E65896A48E348AD35D4B12348A665197CADC95FC87FA4A9564",
+                      "package":  "files/system/msxml4a.dll.zip",
+                      "package_size":  12679,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\msxml4r.dll",
+                      "size":  82452,
+                      "hash":  "B9D07B33CAE92176BD0F31A5AAF8BEA5B6362FDC59E6A43B82F8B43DB9F6CCA9",
+                      "package":  "files/system/msxml4r.dll.zip",
+                      "package_size":  13477,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\musicinfo.dat",
+                      "size":  3376,
+                      "hash":  "837692B210A943DEEC1CAA9AD0C6B3A2A5839FEF677F500483506F287CD8797B",
+                      "package":  "files/system/musicinfo.dat.zip",
+                      "package_size":  3519,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\npcgrp.dat",
+                      "size":  233392,
+                      "hash":  "F0FA6F0E06D6DE98FB7E319587E86DB2B06550759FD6C6EB773B95B71A6408F1",
+                      "package":  "files/system/npcgrp.dat.zip",
+                      "package_size":  233599,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\npcname-e.dat",
+                      "size":  51248,
+                      "hash":  "BA1A35116C14507CFA7F04314618227CF9871232C01D6B19EDC5CBB539D5518E",
+                      "package":  "files/system/npcname-e.dat.zip",
+                      "package_size":  51406,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\npkcrypt.dll",
+                      "size":  409700,
+                      "hash":  "B71A6657CCEC9CB9E98A163EDBA12F9ABB654638587DE8666D9FEBD61FFA9F5B",
+                      "package":  "files/system/npkcrypt.dll.zip",
+                      "package_size":  142222,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\npkcrypt.sys",
+                      "size":  23217,
+                      "hash":  "F556D97050AA9D4573BCA01316A1A84B70668694EF759C2576B5AF4013870A00",
+                      "package":  "files/system/npkcrypt.sys.zip",
+                      "package_size":  12960,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\npkcrypt.vxd",
+                      "size":  26344,
+                      "hash":  "444E724AE455D337ED25F9B143B998092773904B145F125C9488856C2D7843F5",
+                      "package":  "files/system/npkcrypt.vxd.zip",
+                      "package_size":  11066,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\npkcusb.sys",
+                      "size":  15472,
+                      "hash":  "7C4AED917CE3B2AC21E233A37DB2B70AA1FE8D7F1508428A5A213258D634E179",
+                      "package":  "files/system/npkcusb.sys.zip",
+                      "package_size":  8235,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\npkpdb.dll",
+                      "size":  53268,
+                      "hash":  "4D6195979286E35706769FD4420F14E947E489711D4FFCA8C1124C5D8D1DA4DD",
+                      "package":  "files/system/npkpdb.dll.zip",
+                      "package_size":  17179,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\NWindow.dll",
+                      "size":  3850260,
+                      "hash":  "CB85F7A5DE375F1E9156EC6559AAE2A0A809B3ABAC4150142AAFB14BBF02B47B",
+                      "package":  "files/system/NWindow.dll.zip",
+                      "package_size":  1147949,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\nwindow.u",
+                      "size":  251512,
+                      "hash":  "6F3171147D83E447F2427E249C2AD73428E2B385D1557B86C53EFFA1062EA791",
+                      "package":  "files/system/nwindow.u.zip",
+                      "package_size":  75662,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\obscene-e.dat",
+                      "size":  304,
+                      "hash":  "C32E793EE0CE2758166634C26F34390AD6C24683FD4F3D74264940DFEC20AEF4",
+                      "package":  "files/system/obscene-e.dat.zip",
+                      "package_size":  444,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\ogg.dll",
+                      "size":  61460,
+                      "hash":  "732EE0DC9122C14AAB0B65818ADFE255EA3C35458E5796D5268E7AC773B534E8",
+                      "package":  "files/system/ogg.dll.zip",
+                      "package_size":  26509,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\openal32.dll",
+                      "size":  114708,
+                      "hash":  "0AE39CD1032B52E257EB64F68FBEF3457298193190E50B85A9A6AB3BBC54832A",
+                      "package":  "files/system/openal32.dll.zip",
+                      "package_size":  52270,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Option.ini",
+                      "size":  1262,
+                      "hash":  "78EF493256D1547EC398C1D9D37E6D32F5DD48A4C20EAB090C1A138A43936E18",
+                      "package":  "files/system/Option.ini.zip",
+                      "package_size":  727,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\optiondata_client-e.dat",
+                      "size":  97072,
+                      "hash":  "C94D4800A98066DFF7A5C08AD17C66268FA54807159991C8AB7FFB619CCC7E14",
+                      "package":  "files/system/optiondata_client-e.dat.zip",
+                      "package_size":  97260,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\orc.dll",
+                      "size":  1396756,
+                      "hash":  "576F1F14602E304C032351F7297CDA319B37A2290C9DE3995FEE9A4F503F97D6",
+                      "package":  "files/system/orc.dll.zip",
+                      "package_size":  1203618,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\questname-e.dat",
+                      "size":  189616,
+                      "hash":  "756C834223B096EE5789A5664FCCD36E544EFD8C4FC6427E668912C46FE55375",
+                      "package":  "files/system/questname-e.dat.zip",
+                      "package_size":  189818,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\raiddata-e.dat",
+                      "size":  29872,
+                      "hash":  "FE9C5671C3B34137525C324A844C5594A51C1737F07D55F7E15FA549AB871255",
+                      "package":  "files/system/raiddata-e.dat.zip",
+                      "package_size":  30022,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\recipe-c.dat",
+                      "size":  23728,
+                      "hash":  "CEF40F695A0B2F86D2EAFD1F484B94612EEEFD2D74E3E5597583465DEEBB22A6",
+                      "package":  "files/system/recipe-c.dat.zip",
+                      "package_size":  23874,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Running.ini",
+                      "size":  0,
+                      "hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+                      "package":  "files/system/Running.ini.zip",
+                      "package_size":  134,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\s_info.ini",
+                      "size":  40,
+                      "hash":  "47336E143894655103BD71C23913B20C2D2FEEB8E7FB7D60488BE80EAA0B3A9F",
+                      "package":  "files/system/s_info.ini.zip",
+                      "package_size":  165,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\servername-e.dat",
+                      "size":  1072,
+                      "hash":  "12EEC6A7B87FEC0E22FCEE09567C4C2BD737384939F074C23EC471D75AC3602A",
+                      "package":  "files/system/servername-e.dat.zip",
+                      "package_size":  1221,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Shot00000.bmp",
+                      "size":  2949174,
+                      "hash":  "53FD5E3F6C58483F4CDE25771B087ECD7A688A8AAF0274B107415D4308763D49",
+                      "package":  "files/system/Shot00000.bmp.zip",
+                      "package_size":  1793380,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Shot00001.bmp",
+                      "size":  2949174,
+                      "hash":  "FD3A36C97738B4A9DD5BF931136955C43ED5873B687B4F0028097307745D25F4",
+                      "package":  "files/system/Shot00001.bmp.zip",
+                      "package_size":  1346048,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Shot00002.bmp",
+                      "size":  2949174,
+                      "hash":  "B17C34E1721AA5E3245B2C3BA1EB268FF4A2918C5D9B72C0194E2505E7A1C5B5",
+                      "package":  "files/system/Shot00002.bmp.zip",
+                      "package_size":  1233131,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Shot00003.bmp",
+                      "size":  2949174,
+                      "hash":  "E1855E47A900CDF803ED11CA38732EA4A694AD77635A23C4FD1BC2B0B4FFACB4",
+                      "package":  "files/system/Shot00003.bmp.zip",
+                      "package_size":  1414923,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Shot00004.bmp",
+                      "size":  2949174,
+                      "hash":  "6C09A033F9418BA53491BD880B1326072514D2A649B3C7D625452238AD58F07F",
+                      "package":  "files/system/Shot00004.bmp.zip",
+                      "package_size":  1547671,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Shot00005.bmp",
+                      "size":  3200054,
+                      "hash":  "B2309F13954C77EA58633573564684E0E8EFE6A4215187E547D4CD83FBBB7479",
+                      "package":  "files/system/Shot00005.bmp.zip",
+                      "package_size":  1193482,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\skillgrp.dat",
+                      "size":  158512,
+                      "hash":  "C8BCA8F11FBE1B875F8E7115111CC8855DA768CB75885AFD62E062BD8288FC89",
+                      "package":  "files/system/skillgrp.dat.zip",
+                      "package_size":  158698,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\skillname-e.dat",
+                      "size":  297648,
+                      "hash":  "61B6DBD95421D991E6165C6740757F4121C063BA9D16CD9A68045FE9BD2E4BB4",
+                      "package":  "files/system/skillname-e.dat.zip",
+                      "package_size":  297885,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\skillsoundgrp.dat",
+                      "size":  26928,
+                      "hash":  "96F56D151CF318C2F1F75A53B68FA29FF0822055F4B2900CF6F756B26A2F745F",
+                      "package":  "files/system/skillsoundgrp.dat.zip",
+                      "package_size":  27084,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\smallfont.gly",
+                      "size":  181800,
+                      "hash":  "0A8EA3558313661DC0DC69A42589CD7A5755F0EC0AB2CDC3DCEB58FA17813AC1",
+                      "package":  "files/system/smallfont.gly.zip",
+                      "package_size":  8397,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\smallfont-e.gly",
+                      "size":  1560,
+                      "hash":  "5089B353720F263CF4EF53857D85A44533745B0A173D530E637D4B1E79DD8232",
+                      "package":  "files/system/smallfont-e.gly.zip",
+                      "package_size":  486,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\smallfont-pt.gly",
+                      "size":  2344,
+                      "hash":  "A14DFB79BB676662F9877188F927DBFB57A217E806FC934DE9CBD6376F3D2139",
+                      "package":  "files/system/smallfont-pt.gly.zip",
+                      "package_size":  658,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\smallfont-r.gly",
+                      "size":  5536,
+                      "hash":  "076813F1F3F96A886267DC91E332AF71AEE883B6D0F7D12A9F974743495D1954",
+                      "package":  "files/system/smallfont-r.gly.zip",
+                      "package_size":  982,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\soulshot.int",
+                      "size":  1702,
+                      "hash":  "E5E48315EED13EE4459A57D67BC9198DB8790E36814CF1BE6A91C6C2232AA324",
+                      "package":  "files/system/soulshot.int.zip",
+                      "package_size":  497,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\staticobject-e.dat",
+                      "size":  1968,
+                      "hash":  "593AC6F9B7F8EC7CBFF32B243E40C67372E4A795F9B9F314600AF5DD1989595D",
+                      "package":  "files/system/staticobject-e.dat.zip",
+                      "package_size":  2121,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\symbolname-e.dat",
+                      "size":  304,
+                      "hash":  "2B7646A2A400DB7C7DB5541BC5B5CF040F4B3376EB287AB9768DAC6025A0F188",
+                      "package":  "files/system/symbolname-e.dat.zip",
+                      "package_size":  448,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\sysstring-e.dat",
+                      "size":  14896,
+                      "hash":  "D5464686C84A036C6965AB8CC79CB468DCF4DFC542D601BD4203CDD1020669D0",
+                      "package":  "files/system/sysstring-e.dat.zip",
+                      "package_size":  15043,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\systemmsg-e.dat",
+                      "size":  48048,
+                      "hash":  "38FE818A9DA858989E1854DB0DAFA1FABA561956C897658B8B1B71C76E770DE8",
+                      "package":  "files/system/systemmsg-e.dat.zip",
+                      "package_size":  48205,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\timeenv0.int",
+                      "size":  13233,
+                      "hash":  "99FE1D3C71298A03F22D1D9491600E3CEC89E0934E56B67A50C8AFEC08CFAE54",
+                      "package":  "files/system/timeenv0.int.zip",
+                      "package_size":  2052,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\timeenv1.int",
+                      "size":  14452,
+                      "hash":  "992A4F473B9DC2E0329C54F76DC32E70ABCEB61F5FBE04D131BCF46B1C32C3AA",
+                      "package":  "files/system/timeenv1.int.zip",
+                      "package_size":  2031,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\timeenv2.int",
+                      "size":  13322,
+                      "hash":  "9A05072F521557D26D1A21DEC6EFFD30E989F5515359F785F361909DD7B13CE3",
+                      "package":  "files/system/timeenv2.int.zip",
+                      "package_size":  1939,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\timeenv3.int",
+                      "size":  14099,
+                      "hash":  "55A9FE7E8CB80C7E88896D07AA1ACE925B6FB3D884CA26308DA282EB03E3EEEE",
+                      "package":  "files/system/timeenv3.int.zip",
+                      "package_size":  1861,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\TTFontInfo.ini",
+                      "size":  795,
+                      "hash":  "23DC2FDA01D6BF08660DC659C3BA125B145E0A34E6FC15318085D7C3B18B2F7F",
+                      "package":  "files/system/TTFontInfo.ini.zip",
+                      "package_size":  521,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\UDebugMenu.u",
+                      "size":  263641,
+                      "hash":  "80CE780AE87300CDED6AF855E83B071FBB423ACE22902B12490E1BC9E10CC543",
+                      "package":  "files/system/UDebugMenu.u.zip",
+                      "package_size":  48410,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\User.ini",
+                      "size":  4400,
+                      "hash":  "65CFC5E52F534221BE7D74E8FF9BF3951C67DBE535BE7B78D3C061450EB6EEF6",
+                      "package":  "files/system/User.ini.zip",
+                      "package_size":  4533,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\UWindow.u",
+                      "size":  693798,
+                      "hash":  "EAC8BE32D9039D415989E93D8AF549DC0BFFE1D811E3CF46268318708E8FD3D4",
+                      "package":  "files/system/UWindow.u.zip",
+                      "package_size":  176984,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\variationeffectgrp-e.dat",
+                      "size":  1456,
+                      "hash":  "3F936F7E4F43275085AC9F4172D8ED67465B8C90087EE667CB6CB8A761947643",
+                      "package":  "files/system/variationeffectgrp-e.dat.zip",
+                      "package_size":  1621,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\vorbis.dll",
+                      "size":  249876,
+                      "hash":  "5548137178BC2276043F525D4115B4F433BF89437952F352203CD5A58FABE820",
+                      "package":  "files/system/vorbis.dll.zip",
+                      "package_size":  132360,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\vorbisfile.dll",
+                      "size":  106516,
+                      "hash":  "1E05684598D59B89C38FF9E8857BB6956620EAF4CA486B0B1E3796B59FC1655B",
+                      "package":  "files/system/vorbisfile.dll.zip",
+                      "package_size":  50335,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\weapongrp.dat",
+                      "size":  78128,
+                      "hash":  "17A3A4B26018985A38567BF6092208129EBEA21E7F1B0188BF15431197704550",
+                      "package":  "files/system/weapongrp.dat.zip",
+                      "package_size":  78291,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\wform.bm",
+                      "size":  527005,
+                      "hash":  "C52F1782A62F0C5C107C9D6C76218536110ACA674AD30C3498F6C19FAF9BCF0A",
+                      "package":  "files/system/wform.bm.zip",
+                      "package_size":  283696,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\Window.dll",
+                      "size":  749588,
+                      "hash":  "142867E4DF7FB0778533382EF115F722FAF20649939DD2AFEBEE548952AF0DFE",
+                      "package":  "files/system/Window.dll.zip",
+                      "package_size":  222648,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\window.int",
+                      "size":  2337,
+                      "hash":  "C471D23C55C4AC7E855893CFD858B46663900DEF92EB81921D0CC5F5DF259FFC",
+                      "package":  "files/system/window.int.zip",
+                      "package_size":  1255,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\WindowsInfo.ini",
+                      "size":  2173,
+                      "hash":  "868D2776A2F7C35E0D631BB547389EB2A4BD984B54D7E8A3907239F1269B3F5E",
+                      "package":  "files/system/WindowsInfo.ini.zip",
+                      "package_size":  796,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\WinDrv.dll",
+                      "size":  630804,
+                      "hash":  "41E8872C53C7F36CF6ABBA398B0439845F923853059BE145F5CFEE8D781C7F58",
+                      "package":  "files/system/WinDrv.dll.zip",
+                      "package_size":  199986,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\windrv.int",
+                      "size":  729,
+                      "hash":  "1F94173C9A360857F5F39CEFC77C9B23823462D21CE418D201C7945C0FFB62BF",
+                      "package":  "files/system/windrv.int.zip",
+                      "package_size":  529,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\wrap_oal.dll",
+                      "size":  409620,
+                      "hash":  "7BCE7F6198BC90E0EC24E0455F7407069364113F1D2CC339E22932EC0ACE7B83",
+                      "package":  "files/system/wrap_oal.dll.zip",
+                      "package_size":  186473,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "system\\zonename-e.dat",
+                      "size":  6064,
+                      "hash":  "63B47F1E8509E098099D6D77785ABC0DB3BD766492FB9AC3FE0063CB187734DB",
+                      "package":  "files/system/zonename-e.dat.zip",
+                      "package_size":  6209,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\favero_l2_icons01.utx",
+                      "size":  76093,
+                      "hash":  "A2EFBB67C7516630797EFE60141ED084CBBD84BEFBE89D9C04E237772550F87A",
+                      "package":  "files/systextures/favero_l2_icons01.utx.zip",
+                      "package_size":  46942,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\favero_l2_icons02.utx",
+                      "size":  70695,
+                      "hash":  "BA230DF7FA303964DA4B272AB1391310FCF13BEDDC1DF4547827972A8EDDF53C",
+                      "package":  "files/systextures/favero_l2_icons02.utx.zip",
+                      "package_size":  49131,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\favero_l2_icons03.utx",
+                      "size":  33542,
+                      "hash":  "6AE6A9711B41BDEB645F3861F9DB115B65E8B521F3F571573EC627DC37548AA2",
+                      "package":  "files/systextures/favero_l2_icons03.utx.zip",
+                      "package_size":  27035,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\favero_l2_icons04.utx",
+                      "size":  36471,
+                      "hash":  "50959B93BCADA152D168BDEA3E489C06EBB661F074AB7AF3C68A1BB2058B8CCD",
+                      "package":  "files/systextures/favero_l2_icons04.utx.zip",
+                      "package_size":  26106,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\favero_l2_icons05.utx",
+                      "size":  38083,
+                      "hash":  "C89D9695813A99C5D9DC5B058C2F28297A9ADCFE539475D2E07B4B78D72527C6",
+                      "package":  "files/systextures/favero_l2_icons05.utx.zip",
+                      "package_size":  32098,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\favero_l2_icons06.utx",
+                      "size":  27285,
+                      "hash":  "0F370CAE6A729219F256432FB6A63102B96D75612B9BC18CA456139246325459",
+                      "package":  "files/systextures/favero_l2_icons06.utx.zip",
+                      "package_size":  18872,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\L2Font.utx",
+                      "size":  22911269,
+                      "hash":  "C708983919B2C8708F47447C7429CA1746A19753C9A3D43C9EC3599BD594A7B5",
+                      "package":  "files/systextures/L2Font.utx.zip",
+                      "package_size":  12882289,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\L2Font-e.utx",
+                      "size":  42492391,
+                      "hash":  "9D951175066FEA37469E679C5B7362E74190C2834870DA7487F5B39FF0A7BB97",
+                      "package":  "files/systextures/L2Font-e.utx.zip",
+                      "package_size":  17437779,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\l2font-pt.utx",
+                      "size":  1114814,
+                      "hash":  "C861C635B8BC09011C4F04401B6BC820C9D1666C1D0456C417C71C418C3B02AF",
+                      "package":  "files/systextures/l2font-pt.utx.zip",
+                      "package_size":  34408,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\L2Font-r.utx",
+                      "size":  26514113,
+                      "hash":  "8497FBCE8C18D9126303F21489CB73CF79DF7E7ACF6D1E57289AD673EDF6838B",
+                      "package":  "files/systextures/L2Font-r.utx.zip",
+                      "package_size":  9947932,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\l2ui.utx",
+                      "size":  15500853,
+                      "hash":  "EB51705DF4F15C514A5775D39E31F6136D26883140172AB17CB5EFC41468F852",
+                      "package":  "files/systextures/l2ui.utx.zip",
+                      "package_size":  2997458,
+                      "last_version":  "20260602000830"
+                  },
+                  {
+                      "path":  "systextures\\L2UI_CH3.utx",
+                      "size":  41073576,
+                      "hash":  "046D0F00DAE23FC71B6C839E9968B40017AA99C0296C568B0A35393A03372843",
+                      "package":  "files/systextures/L2UI_CH3.utx.zip",
+                      "package_size":  4953961,
+                      "last_version":  "20260602000830"
+                  }
+              ]
+}
